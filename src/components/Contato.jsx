@@ -16,7 +16,8 @@ function Contato() {
           <p className="titulo-secao">Contato</p>
           <h2>Vamos conversar?</h2>
           <p>Preencha os campos para testar a experiência do formulário.</p>
-          <p><strong>Telefone e e-mail: [confirmar contatos profissionais]</strong></p>
+          <p><strong>Telefone / WhatsApp: (71) 9 8338-3707</strong></p>
+          <p><strong>E-mail: institutooripsicologia@gmail.com</strong></p>
         </div>
 
         <form className="formulario" onSubmit={enviarFormulario}>
