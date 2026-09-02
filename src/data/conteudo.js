@@ -19,6 +19,13 @@ export const servicos = [
     titulo: "Acolhimento psicológico",
     descricao: "Momento inicial de conversa e orientação.",
     modalidade: "Presencial"
+  },
+  {
+    id: 4,
+    icone: "◈",
+    titulo: "Orientação Psicológica",
+    descricao: "Orientação profissional para questões emocionais e comportamentais.",
+    modalidade: "Presencial ou online"
   }
 ];
 
